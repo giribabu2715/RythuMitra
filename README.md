@@ -56,3 +56,4 @@ Then open `http://localhost:3000` (or the URL shown in your terminal) in your br
 | **Market Administrator** | `srinivas_admin` | `password123` | Madanapalle APMC Yard (Approved) |
 | **Market Administrator** | `narasimha_admin` | `password123` | Kurnool APMC Yard (Pending Approval) |
 | **Main Administrator** | `mainadmin` | `password123` | State Directorate, Vijayawada |
+# RythuMitra
