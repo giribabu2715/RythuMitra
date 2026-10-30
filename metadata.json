@@ -1,0 +1,6 @@
+{
+  "name": "RythuMitra (రైతుమిత్ర)",
+  "description": "Smart agricultural supply-chain platform connecting farmers, buyers, and market administrators with bilingual English/Telugu support, market price comparison, transport cost estimation, and net profit analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
